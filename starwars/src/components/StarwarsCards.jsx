@@ -8,7 +8,7 @@ const Divstyle = styled.div`
   width: 500px;
   margin: auto;
   padding: 10px;
-  border: 3px solid red;
+  border: 3px solid purple;
 `;
 
 export default function StarwarsCards() {
